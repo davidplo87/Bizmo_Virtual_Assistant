@@ -4,7 +4,7 @@ A Python script that can search the web, translate phrases to another language, 
 ## How it works
 This projects uses the Google Calendar API, Twilio API, and speech recognition libraries. Bizmo, the voice assistant, takes audio input from the user and detects specified words in order to run commands. Bizmo will only listen for commands once it's name (the wake word) is detected. 
 
-### Functionalities and wake words 
+## Functionalities and wake words 
 "Bizmo": this is the wake word. (Ex: when the wake word is detected, Bizmo will reply with "How can I help?". From there, Bizmo will start listening for a command.)
 "Search": allows the user to search the web. (Ex. "search beaches near me". This will open up a Google tab and search for "beaches near me".) 
 "Schedule": reads the users schedule for a specified day. (Ex: "what is my schedule for tomorrow?" This will check the users schedule for the following day.)
