@@ -1,5 +1,5 @@
 # Bizmo_Virtual_Assistant
-A Python script that can search the web, translate phrases to another language, text a friend, and check your schedule.
+A Python script intended for a single user that can search the web, translate phrases to another language, text a friend, and check your schedule.
 
 ## How it works
 This project uses the Google Calendar API, Twilio API, and speech recognition libraries. Bizmo, the voice assistant, takes audio input from the user and detects specified words in order to run commands. Bizmo will only listen for commands once it's name (the wake word) is detected. 
