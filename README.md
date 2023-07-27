@@ -13,7 +13,7 @@ This project uses the Google Calendar API, Twilio API, and speech recognition li
 "Exit": Ends the program.
 
 ## Setting up
-You will need to enable the Google Calendar API and authorize your google credentails. For more information on how to get this set up, please visit this link (https://developers.google.com/calendar/api/quickstart/python?authuser=3). After following these steps, post the credentials.json file into the working directory. Once you run the program, a tab should open where youre able to sign into your google account. 
+You will need to enable the Google Calendar API and authorize your google credentails. For more information on how to get this set up, please visit this link (https://developers.google.com/calendar/api/quickstart/python?authuser=3). After following these steps, post the credentials.json file into the working directory. Once you run the program, a tab should open where you're able to sign into your google account. When you choose your Google account to sign in, an error will pop up saying "This app isn't verified". From there, click the "Advanced", click "Go to Quickstart", and click "allow" on the "Grant Quickstart permission" tab. Once this is completed, you will be able to close the window and run the program.
 
 
 
